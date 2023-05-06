@@ -1,0 +1,518 @@
+{
+    "NS": [
+        {
+            "subject": "ASTRON",
+            "name": "Cosmic Evolution Introductory Astronomy",
+            "code": "1001",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "NaturalScience"
+        },
+        {
+            "subject": "ASTRON",
+            "name": "Introductory to Astronomy I",
+            "code": "1050",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "NaturalScience"
+        },
+        {
+            "subject": "BIOL",
+            "name": "Introductory Biology: From Molecules to Organisms",
+            "code": "1831",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "NaturalScience"
+        },
+        {
+            "subject": "BIOL",
+            "name": "Introductory Biology: Organisms and the Environment",
+            "code": "1821",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "NaturalScience"
+        },
+        {
+            "subject": "CHEM",
+            "name": "Chemistry for the Health Professions",
+            "code": "1052",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "NaturalScience"
+        },
+        {
+            "subject": "CHEM",
+            "name": "Introductory Chemistry I",
+            "code": "1111",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "NaturalScience"
+        },
+        {
+            "subject": "GEOL",
+            "name": "General Geology",
+            "code": "1001",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "NaturalScience"
+        },
+        {
+            "subject": "GEOL",
+            "name": "General Geology Lab",
+            "code": "1001L",
+            "credit": 1,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "NaturalScience"
+        },
+        {
+            "subject": "GEOL",
+            "name": "Oceanography",
+            "code": "1053",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "NaturalScience"
+        },
+        {
+            "subject": "BIOL",
+            "name": "Human Biology",
+            "code": "1102",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "NaturalScience"
+        },
+        {
+            "subject": "PHYSICS",
+            "name": "How Things Work",
+            "code": "1001",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "NaturalScience"
+        },
+        {
+            "subject": "PHYSICS",
+            "name": "Basic Physics I",
+            "code": "1011",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "NaturalScience"
+        },
+        {
+            "subject": "PHYSICS",
+            "name": "Physics: Mechanics and Heat",
+            "code": "2111",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "NaturalScience"
+        }
+    ],
+    "Soc": [
+        {
+            "subject": "ANTHRO",
+            "name": "Introduction to Cultural Anthropology",
+            "code": "1011",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "SocialandBehaviouralScience"
+        },
+        {
+            "subject": "ECON",
+            "name": "Economics in Everyday Life",
+            "code": "1000",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "SocialandBehaviouralScience"
+        },
+        {
+            "subject": "ECON",
+            "name": "Principles of Macroeconomics",
+            "code": "1002",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "SocialandBehaviouralScience"
+        },
+        {
+            "subject": "ECON",
+            "name": "Principles of Microeconomics",
+            "code": "1001",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "SocialandBehaviouralScience"
+        },
+        {
+            "subject": "GEOG",
+            "name": "Introduction to Geography",
+            "code": "1001",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "SocialandBehaviouralScience"
+        },
+        {
+            "subject": "GEOG",
+            "name": "World Regions",
+            "code": "1002",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "SocialandBehaviouralScience"
+        },
+        {
+            "subject": "HIST",
+            "name": "American Civilization 1865-Present",
+            "code": "1002",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "SocialandBehaviouralScience"
+        },
+        {
+            "subject": "HIST",
+            "name": "American Civilization to 1865",
+            "code": "1001",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "SocialandBehaviouralScience"
+        },
+        {
+            "subject": "POL SCI",
+            "name": "American Politics",
+            "code": "1100",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "SocialandBehaviouralScience"
+        },
+        {
+            "subject": "POL SCI",
+            "name": "World Politics",
+            "code": "1800",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "SocialandBehaviouralScience"
+        },
+        {
+            "subject": "POL SCI",
+            "name": "Introduction to Comparative Politics",
+            "code": "1500",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "SocialandBehaviouralScience"
+        },
+        {
+            "subject": "PSYCH",
+            "name": "General Psychology",
+            "code": "1003",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "SocialandBehaviouralScience"
+        },
+        {
+            "subject": "PSYCH",
+            "name": "Human Growth and Development",
+            "code": "2268",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "SocialandBehaviouralScience"
+        },
+        {
+            "subject": "SOC",
+            "name": "Introduction to Sociology",
+            "code": "1010",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "SocialandBehaviouralScience"
+        }
+    ],
+    "hum": [
+        {
+            "subject": "ART HS",
+            "name": "Introduction To Western Art",
+            "code": "1100",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "Humanities"
+        },
+        {
+            "subject": "ART HS",
+            "name": "Global Art History",
+            "code": "1120",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "Humanities"
+        },
+        {
+            "subject": "FRENCH",
+            "name": "French Language Culture I",
+            "code": "1001",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "Humanities"
+        },
+        {
+            "subject": "FRENCH",
+            "name": "French Language Culture II",
+            "code": "1002",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "Humanities"
+        },
+        {
+            "subject": "SPANISH",
+            "name": "Spanish Language Culture I",
+            "code": "1001",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "Humanities"
+        },
+        {
+            "subject": "SPANISH",
+            "name": "Spanish Language Culture II",
+            "code": "1002",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "Humanities"
+        },
+        {
+            "subject": "ENGL",
+            "name": "Introduction to Literature",
+            "code": "1120",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "Humanities"
+        },
+        {
+            "subject": "M H L T",
+            "name": "Intro to Music",
+            "code": "1001",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "Humanities"
+        },
+        {
+            "subject": "M H L T",
+            "name": "Introduction to Jazz",
+            "code": "1070",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "Humanities"
+        },
+        {
+            "subject": "M H L T",
+            "name": "History of Rock Music",
+            "code": "1003",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "Humanities"
+        },
+        {
+            "subject": "M H L T",
+            "name": "Drumming Cultures of the World",
+            "code": "1150",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "Humanities"
+        },
+        {
+            "subject": "M H L T",
+            "name": "History of Western Music I",
+            "code": "2010",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "Humanities"
+        },
+        {
+            "subject": "M H L T",
+            "name": "History of Western Music II",
+            "code": "2020",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "Humanities"
+        },
+        {
+            "subject": "PHIL",
+            "name": "Introduction to Philosophy",
+            "code": "1150",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "Humanities"
+        },
+        {
+            "subject": "PHIL",
+            "name": "Critical Thinking",
+            "code": "1160",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "Humanities"
+        },
+        {
+            "subject": "PHIL",
+            "name": "Approaches to Ethics",
+            "code": "1130",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "Humanities"
+        },
+        {
+            "subject": "THEATR",
+            "name": "Introduction to Theatre",
+            "code": "1800",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "Humanities"
+        },
+        {
+            "subject": "HIST",
+            "name": "Topics in European Civilization: Emergence of Western Europe to 1715",
+            "code": "1031",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "Humanities"
+        },
+        {
+            "subject": "HIST",
+            "name": "Topics in European Civilization: 1715 to the Present",
+            "code": "1032",
+            "credit": 3,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "Humanities"
+        },
+        {
+            "subject": "EN PER",
+            "name": "Symphonic Band",
+            "code": "1520",
+            "credit": 1,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "Humanities"
+        },
+        {
+            "subject": "EN PER",
+            "name": "University Chorus",
+            "code": "1400",
+            "credit": 1,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "Humanities"
+        },
+        {
+            "subject": "EN PER",
+            "name": "The University Singers",
+            "code": "1410",
+            "credit": 1,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "Humanities"
+        },
+        {
+            "subject": "EN PER",
+            "name": "University Orchestra",
+            "code": "1500",
+            "credit": 1,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "Humanities"
+        },
+        {
+            "subject": "ST ART",
+            "name": "Drawing I",
+            "code": "1140",
+            "credit": 1,
+            "prereq": null,
+            "prereqM": null,
+            "paired": [],
+            "genEd": "Humanities"
+        }
+    ]
+}
